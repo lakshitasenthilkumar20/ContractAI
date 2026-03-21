@@ -1,0 +1,1 @@
+This is a Loan and Credit agreement contract. It involves collateral, lenders, and corporation borrowers.
